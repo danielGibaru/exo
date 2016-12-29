@@ -3,7 +3,7 @@
 function triangle($hauteur = 5, $char = 'm')
 {
     for ($i = 0; $i < $hauteur; ++$i) {
-        for ($j = 0; $j <= $i; ++t) {
+        for ($j = 0; $j <= $i; ++$j) {
             echo $char[0].' ';
         }
         echo "\n";

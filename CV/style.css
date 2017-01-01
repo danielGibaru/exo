@@ -1,0 +1,22 @@
+#text {
+    display: block;
+}
+section {
+    border: 1px solid #417AB7;
+    margin: 5% 25%;
+
+}
+.titre{
+    font-size: 2em;
+    text-align: center;
+}
+section p{
+    text-align: center;
+}
+img{
+    border: 1px solid #417AB7;
+    margin: 2% 38%;
+}
+p{
+    font-family: impact;
+}
